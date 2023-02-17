@@ -1,5 +1,5 @@
 DROP DATABASE IF EXISTS proj_man;
-CREATE DATABASE proj_man;
+CREATE DATABASE project_manager;
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
